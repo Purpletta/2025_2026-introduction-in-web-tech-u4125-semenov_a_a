@@ -28,7 +28,7 @@ jobs:
         with:
           context: ./lab2
           push: true
-          tags: ${{ secrets.DOCKER_USERNAME }}/purpletta-flask-app:latest
+          tags: ${{ secrets.DOCKER_USERNAME }}/purpletta-my-flask-app:latest
 
       - name: Conditional Deploy
         run: |
