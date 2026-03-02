@@ -23,4 +23,9 @@ Date of finished: 02.03.2026\
 
 2) Сделал секреты 
 ![image2.png](image2.png)
+
+
+3) залил yml файл и успешно прошел тест, в докер хаб все отправилось и появилосб
 ![image3.png](image3.png)
+![image4.png](image4.png)
+![image5.png](image5.png)
