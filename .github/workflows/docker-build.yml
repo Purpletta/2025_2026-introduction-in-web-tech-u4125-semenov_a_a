@@ -33,5 +33,5 @@ jobs:
           if [ "${GITHUB_REF##*/}" = "main" ]; then
             echo "Deploying to production server..."
           else
-            echo "Deploying to development server..."
+            echo "Deploying to development server.."
           fi
