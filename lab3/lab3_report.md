@@ -33,3 +33,10 @@ Date of finished: 02.03.2026\
 4) зашел в админку графаны и подключил датасоурс прометея
 ![image6.png](image6.png)
 ![image7.png](image7.png)
+
+5) сделал дашборд метрики: node_cpu_seconds_total
+node_memory_MemAvailable_bytes
+node_filesystem_size_bytes
+
+![image8.png](image8.png)
+![image9.png](image9.png)
