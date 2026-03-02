@@ -7,7 +7,7 @@ Author: Семенов Алексей Алексеевич\
 Lab: Lab1\
 Date of create: 02.03.2026\
 Date of finished: 02.03.2026\
-
+dd\
 ---
 
 # Лабораторная работа №2  
