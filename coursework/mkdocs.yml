@@ -1,0 +1,49 @@
+site_name: Alexey Semenov
+site_description: Personal website created with MkDocs
+site_author: Alexey Semenov
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: indigo
+  icon:
+    logo: material/account-circle
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/purpletta
+      name: Telegram
+    - icon: fontawesome/brands/github
+      link: https://github.com/Purpletta
+      name: GitHub
+
+copyright: Copyright &copy; 2026 Alexey Semenov
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+  - Достижения: achievements.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
