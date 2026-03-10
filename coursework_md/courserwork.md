@@ -33,6 +33,6 @@ Date of finished: 10.03.2026\
 ![image6.png](image6.png)
 
 4) Build'нул сайт, деплой, работает
-
+ссылка: https://purpletta.github.io/2025_2026-introduction-in-web-tech-u4125-semenov_a_a/
 ![image7.png](image7.png)
 ![image8.png](image8.png)
